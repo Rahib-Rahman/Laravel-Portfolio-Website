@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67458a2e-fe83-40e9-8330-1486931709f6" name="Default Changelist" comment="" />
+    <list default="true" id="67458a2e-fe83-40e9-8330-1486931709f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/Default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PhotoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PhotoController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Photo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Photo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,11 +138,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Layout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github Protfolio\Github Website\Laravel-Portfolio-Website\admin\public\images" />
+      <recent name="D:\Github Protfolio\Github Website\Laravel-Portfolio-Website\admin\resources\views" />
       <recent name="D:\Github Protfolio\Github Website\Laravel-Portfolio-Website\admin\resources\views\Layout" />
     </key>
   </component>
@@ -172,6 +181,7 @@
       <workItem from="1630433797059" duration="6511000" />
       <workItem from="1630440696616" duration="1273000" />
       <workItem from="1630501886134" duration="12090000" />
+      <workItem from="1631797224787" duration="9107000" />
     </task>
     <servers />
   </component>

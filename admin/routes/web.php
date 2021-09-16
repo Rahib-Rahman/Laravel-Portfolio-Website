@@ -73,3 +73,4 @@ Route::get('/Logout', [LoginController::class,'onLogout']);
 
 // Admin Photo Gallery
 Route::get('/photo', [PhotoController::class,'PhotoIndex']);
+Route::post('/PhotoUpload', [PhotoController::class,'PhotoUpload']);
