@@ -72,5 +72,8 @@ Route::post('/onLogin', [LoginController::class,'onLogin']);
 Route::get('/Logout', [LoginController::class,'onLogout']);
 
 // Admin Photo Gallery
-Route::get('/photo', [PhotoController::class,'PhotoIndex']);
-Route::post('/PhotoUpload', [PhotoController::class,'PhotoUpload']);
+Route::get('/photo', [PhotoController::class,'PhotoIndex'])->middleware('loginCheck');
+Route::post('/PhotoUpload', [PhotoController::class,'PhotoUpload'])->middleware('loginCheck');
+Route::get('/PhotoJSON', [PhotoController::class,'PhotoJSON'])->middleware('loginCheck');
+Route::get('/PhotoJSONByID/{id}', [PhotoController::class,'PhotoJSONByID'])->middleware('loginCheck');
+Route::post('/PhotoDelete', [PhotoController::class,'PhotoDelete'])->middleware('loginCheck');
