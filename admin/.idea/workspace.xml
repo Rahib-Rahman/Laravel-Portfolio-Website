@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67458a2e-fe83-40e9-8330-1486931709f6" name="Default Changelist" comment="" />
+    <list default="true" id="67458a2e-fe83-40e9-8330-1486931709f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../site/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +135,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../site" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -183,6 +186,8 @@
       <workItem from="1631891052007" duration="6087000" />
       <workItem from="1631917362054" duration="8294000" />
       <workItem from="1632416274037" duration="54000" />
+      <workItem from="1656336557697" duration="1974000" />
+      <workItem from="1656338588494" duration="6000" />
     </task>
     <servers />
   </component>
